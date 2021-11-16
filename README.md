@@ -1,1 +1,1 @@
-# patika-javascript-time-and-date-app
+# Patika Javascript Time and Date App
