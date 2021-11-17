@@ -24,7 +24,7 @@ function showUserTime() {
     setTimeout(showUserTime, 1000)
 }
 
-showUserTime();
+showUserDate();
 
 function showUserDate() {
     const userDate = document.querySelector("#yourDate");
